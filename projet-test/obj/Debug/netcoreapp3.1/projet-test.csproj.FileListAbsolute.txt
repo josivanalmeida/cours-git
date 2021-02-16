@@ -1,0 +1,13 @@
+D:\Josivan\Studies\Projets\projet-test\projet-test\bin\Debug\netcoreapp3.1\projet-test.exe
+D:\Josivan\Studies\Projets\projet-test\projet-test\bin\Debug\netcoreapp3.1\projet-test.deps.json
+D:\Josivan\Studies\Projets\projet-test\projet-test\bin\Debug\netcoreapp3.1\projet-test.runtimeconfig.json
+D:\Josivan\Studies\Projets\projet-test\projet-test\bin\Debug\netcoreapp3.1\projet-test.runtimeconfig.dev.json
+D:\Josivan\Studies\Projets\projet-test\projet-test\bin\Debug\netcoreapp3.1\projet-test.dll
+D:\Josivan\Studies\Projets\projet-test\projet-test\bin\Debug\netcoreapp3.1\projet-test.pdb
+D:\Josivan\Studies\Projets\projet-test\projet-test\obj\Debug\netcoreapp3.1\projet-test.csprojAssemblyReference.cache
+D:\Josivan\Studies\Projets\projet-test\projet-test\obj\Debug\netcoreapp3.1\projet-test.AssemblyInfoInputs.cache
+D:\Josivan\Studies\Projets\projet-test\projet-test\obj\Debug\netcoreapp3.1\projet-test.AssemblyInfo.cs
+D:\Josivan\Studies\Projets\projet-test\projet-test\obj\Debug\netcoreapp3.1\projet-test.csproj.CoreCompileInputs.cache
+D:\Josivan\Studies\Projets\projet-test\projet-test\obj\Debug\netcoreapp3.1\projet-test.dll
+D:\Josivan\Studies\Projets\projet-test\projet-test\obj\Debug\netcoreapp3.1\projet-test.pdb
+D:\Josivan\Studies\Projets\projet-test\projet-test\obj\Debug\netcoreapp3.1\projet-test.genruntimeconfig.cache
